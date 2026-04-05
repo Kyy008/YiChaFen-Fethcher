@@ -2,3 +2,6 @@
 !.gitignore
 !main.py
 !requirements.txt
+!README.md
+!pic/
+!pic/**
